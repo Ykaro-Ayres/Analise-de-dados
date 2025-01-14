@@ -1,0 +1,61 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 72.978645324707031,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 60
+          },
+          "nodeIndex": "Base cliente",
+          "nodeLineageTag": "560e23d7-8af2-4286-ad37-fe9352173df7",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 408.8,
+            "y": 0
+          },
+          "nodeIndex": "base compra",
+          "nodeLineageTag": "f3c9d6e9-e203-430b-9c4c-00cf6cd955da",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 759.8,
+            "y": 0
+          },
+          "nodeIndex": "VENDAS",
+          "nodeLineageTag": "0de9cde6-af36-41a9-94b2-0ce0a3948384",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}

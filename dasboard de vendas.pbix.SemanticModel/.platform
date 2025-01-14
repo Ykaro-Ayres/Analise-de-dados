@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "dasboard de vendas.pbix"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "8e647b84-d98b-4a0a-ac4f-20435edfa5c2"
+  }
+}
